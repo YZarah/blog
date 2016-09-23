@@ -76,3 +76,7 @@ deploy:
   type: git
   repo: https://github.com/YZarah/YZarah.github.io.git
   branch: master
+
+auto_excerpt:
+  enable: true
+  length: 150
